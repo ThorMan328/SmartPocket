@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1098095844716",
+    "firebase_url": "https://smartpocket-4c1f6.firebaseio.com",
+    "project_id": "smartpocket-4c1f6",
+    "storage_bucket": "smartpocket-4c1f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098095844716:android:a6e61455f3ca9a5ff02749",
+        "android_client_info": {
+          "package_name": "com.example.smart_pocket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098095844716-28b0uu87j4pvohdel5s889f5oek31qtu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFEud7zJNFjZpt_nEOiITBm-ZIva60qi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098095844716-28b0uu87j4pvohdel5s889f5oek31qtu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
